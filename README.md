@@ -9,7 +9,7 @@ Have fun taking a look!
 Barbie is an entrepreneur extraordinaire. She wanted to conduct research regarding the metrics and numbers behind the markets which purchase from her new soap and fragrance line:
 >*Phenomenal Fall!*
 
-Thus, she teamed up with me. We first collected data from 20,000 survey participants before sorting and wrangling it. From there, we were able to analyze the data and put it into visuals that would make sense to the line's primary investors, Ken, Bibble and Teresa. In the end, Barbie was able to understand that young women are her main consumers and that her *Pumpkin Power<sup> TM </sup>* soaps are her best sellers, particularly in urban areas. Ken, Bibble, and Teresa were impressed with the findings, immediately celebrating and donating fortunes to Barbie's cause.
+Thus, she teamed up with me. We first collected data from 20,000 survey participants before sorting and wrangling it. From there, we were able to analyze the data and put it into visuals that would make sense to the line's primary investors, Ken, Bibble and Teresa. In the end, Barbie was able to understand that young women are her main consumers and that her *Pumpkin Power<sup> TM </sup>* soaps are her best sellers, particularly in urban areas. <ins> Ken, Bibble, and Teresa were impressed with the findings, immediately celebrating and donating fortunes to Barbie's cause.<ins>
 
 ## Tools
 We used two main tools to **sort, analyze, and present** the data: **Excel and Power BI.**
