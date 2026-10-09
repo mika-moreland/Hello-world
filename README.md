@@ -19,5 +19,5 @@ We used two main tools to **sort, analyze, and present** the data: **Excel and P
 Two project files are featured in the repository for your reference. IMG_8163.jpg is a reaction from the stakeholders after hearing Barbie's new research, and the Pumpkin Power png is a promotional flyer for her best seller.
 
 ## Additional Info
-I am still learning a lot about GitHub, and that's okay! I'm having fun so far and hope to improve, both improving how I use the platform as well as the content I add!
+I still have a lot to learn about GitHub, and that's okay! I'm having fun so far and hope to get better, both improving how I use the platform as well as the content I add.
 Thanks for visiting!
