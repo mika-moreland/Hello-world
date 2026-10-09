@@ -16,7 +16,6 @@ We used two main tools to **sort, analyze, and present** the data: **Excel and P
 
 
 ## Files
-
-## How to Run Program
+Two project files are featured in the repository for your reference.
 
 ## Additional Info
