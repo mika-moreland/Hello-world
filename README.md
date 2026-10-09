@@ -7,11 +7,13 @@ Have fun taking a look!
 
 ## Description
 Barbie is an entrepreneur extraordinaire. She conducted some research regarding the metrics and numbers behind the markets which purchase from her new soap and fragrance line:
->Phenomenal Fall
+>*Phenomenal Fall*
 
 To better understand the data, she teamed up with me.
 
 ## Tools
+We used two main tools to **sort, analyze, and present** the data: Excel and Power BI
+
 
 ## Files
 
